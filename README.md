@@ -12,7 +12,9 @@ All the best and have fun!
 
 These are some useful commands 
 -listall - Shows a list of all available commands
+
 -end - end the program
+
 -default - set the settings back to default
 
 *More to come as I implement them
